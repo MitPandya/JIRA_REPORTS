@@ -1,0 +1,376 @@
++-----------+-------------+-------------+-------------+-------------+-------------+
+|  JIRA_ID  |   VCA-5.2   |  VCA-master |   VCA-4.0   |   VCA-5.1   |   VCA-5.0   |
++-----------+-------------+-------------+-------------+-------------+-------------+
+| VRS-12011 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12226 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12630 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12633 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12632 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12635 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12634 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12637 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12221 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12639 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12543 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12185 |      -      | Needs merge | Needs merge |      -      |      -      |
+| VRS-12183 |      -      | Needs merge |      -      | Needs merge |      -      |
+| VRS-12182 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12181 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11982 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11986 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11987 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11984 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11985 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11988 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12456 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12451 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12453 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12452 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12353 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12351 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12356 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12458 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12354 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12355 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11939 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11937 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11935 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11933 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11931 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12178 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12174 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12175 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12172 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12173 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12170 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12077 |      -      | Needs merge | Needs merge |      -      |      -      |
+| VRS-12075 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12073 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12072 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12071 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12070 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12079 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12227 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12573 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12571 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12576 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12574 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12575 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12578 | Needs merge | Needs merge | Needs merge |      -      |      -      |
+| VRS-12491 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12497 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12499 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12498 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12317 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12314 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12312 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12313 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12259 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12311 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12257 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12256 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12255 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12254 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12252 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12318 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12319 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11979 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11978 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11970 |      -      | Needs merge | Needs merge |      -      |      -      |
+| VRS-11977 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11975 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11974 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12558 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12559 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12033 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12032 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12031 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12030 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12037 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12036 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12035 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12034 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12039 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12038 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12118 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11883 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11881 |      -      | Needs merge |      -      | Needs merge |      -      |
+| VRS-11885 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12107 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12106 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12105 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12104 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12101 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12539 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12537 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12534 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12535 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12532 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12530 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12108 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12143 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12219 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12218 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12212 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12056 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12217 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12216 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12215 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12214 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12623 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12620 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12588 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12626 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12624 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12197 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12198 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12581 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12585 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12148 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12446 | Needs merge | Needs merge | Needs merge |      -      |      -      |
+| VRS-12447 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12445 | Needs merge | Needs merge | Needs merge |      -      |      -      |
+| VRS-12448 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12449 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11922 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11924 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11926 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11929 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12068 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12069 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12140 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12147 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12146 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12145 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12144 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12149 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12063 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12064 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12066 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12067 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12269 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12095 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12094 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12096 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12091 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12090 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12541 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12092 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12482 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12483 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12329 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12481 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12485 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12322 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12321 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12320 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12327 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12326 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12324 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12241 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12243 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12245 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12247 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12248 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11969 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11966 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11967 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11963 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12025 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12027 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12021 |      -      | Needs merge | Needs merge |      -      |      -      |
+| VRS-12028 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12029 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11919 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11911 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11914 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11917 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11916 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12598 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12599 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12293 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12119 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12291 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12110 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12111 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12298 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12114 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12115 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12116 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12117 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12501 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12055 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12054 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12057 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12504 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12508 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12593 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12547 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12208 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12204 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12205 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12206 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12207 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12201 |      -      | Needs merge | Needs merge |      -      |      -      |
+| VRS-12203 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12617 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12615 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12613 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12612 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12611 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12594 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12595 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12596 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12591 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12618 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12479 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12478 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12471 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12100 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12476 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12474 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12278 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12270 | Needs merge | Needs merge | Needs merge |      -      |      -      |
+| VRS-12272 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12274 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11893 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11955 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11956 |      -      | Needs merge | Needs merge |      -      | Needs merge |
+| VRS-11951 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11953 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11959 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12155 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12156 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12157 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12150 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12151 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12153 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12014 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12016 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12158 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12010 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12121 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12120 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12123 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12125 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12124 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12127 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12126 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12129 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12128 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12552 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12553 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12554 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12555 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12556 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12557 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12086 |      -      | Needs merge |      -      | Needs merge |      -      |
+| VRS-12085 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12081 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12088 |      -      | Needs merge | Needs merge |      -      |      -      |
+| VRS-12328 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12334 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12335 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12331 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12332 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12333 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12235 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12234 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12237 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12236 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12231 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12230 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12233 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12232 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12239 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12238 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11991 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11990 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11993 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11994 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11996 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11999 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11998 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12349 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12341 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12343 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12342 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12345 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12347 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12346 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11902 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-11903 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11906 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12284 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12285 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12287 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12168 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12165 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12167 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12166 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12161 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12289 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12163 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12042 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12040 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12041 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12510 |      -      | Needs merge | Needs merge |      -      |      -      |
+| VRS-12047 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12044 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12045 | Needs merge | Needs merge | Needs merge |      -      |      -      |
+| VRS-12519 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12621 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12194 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12196 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12628 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12609 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12602 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12606 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12563 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12565 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12564 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12566 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12569 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12568 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12469 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12464 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12467 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12460 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12461 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12462 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12305 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12304 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12268 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12306 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12302 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12262 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12263 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12261 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12309 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12267 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12264 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12265 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11943 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11941 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12281 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-11890 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12008 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12009 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12006 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12007 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12004 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12005 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12002 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12001 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12132 | Needs merge | Needs merge |      -      | Needs merge |      -      |
+| VRS-12641 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12642 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12135 | Needs merge | Needs merge |      -      | Needs merge |      -      |
+| VRS-12525 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12524 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12138 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12526 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12521 |      -      | Needs merge |      -      |      -      |      -      |
+| VRS-12522 | Needs merge | Needs merge |      -      |      -      |      -      |
+| VRS-12018 | Needs merge | Needs merge |      -      |      -      |      -      |
++-----------+-------------+-------------+-------------+-------------+-------------+
